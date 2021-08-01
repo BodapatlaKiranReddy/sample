@@ -1,7 +1,16 @@
 Class Main(){
+
+List arr = new ArrayList<>();
+private static final string URL = "http://llll"
+
+
 // Logic 
 
 sysout 
 
+
+///method to to logic 
+
 we should need to test it
+
 }
