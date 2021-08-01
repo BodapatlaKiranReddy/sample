@@ -1,5 +1,8 @@
 Class Main(){
+List arr = new ArrayList<>();
 // Logic 
 
 sysout 
+
+///method to to logic 
 }
