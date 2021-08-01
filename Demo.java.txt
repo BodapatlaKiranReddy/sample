@@ -1,4 +1,6 @@
 Class Main(){
+private static final string URL = "http://llll"
+
 // Logic 
 
 sysout 
